@@ -1,0 +1,22 @@
+.modal {
+ background-color:rgba(0,0,0, .4);   
+}
+
+.modal-body {
+ background-color:rgba(0,0,0, .7); 
+ color: white;  
+}
+
+.modal-header {
+ background-color:#5cb85c; 
+ width: 100%;  
+}
+h2 {
+    color:white;
+}
+body{
+background-image: url('https://cdn.pixabay.com/photo/2016/11/29/03/42/audio-1867121_960_720.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+padding-bottom: 50px;
+}

@@ -1,0 +1,22 @@
+.modal {
+ background-color:rgba(0,0,0, .4);   
+}
+
+.modal-body {
+ background-color:rgba(0,0,0, .7); 
+ color: white;  
+}
+
+.modal-header {
+ background-color:#5cb85c; 
+ width: 100%;  
+}
+h2 {
+    color:white;
+}
+body{
+background-image: url('images/background.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+padding-bottom: 50px;
+}
